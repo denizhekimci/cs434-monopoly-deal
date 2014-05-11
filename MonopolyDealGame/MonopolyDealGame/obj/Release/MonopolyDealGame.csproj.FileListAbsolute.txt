@@ -1,0 +1,11 @@
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\obj\Release\ResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\obj\Release\MonopolydealGame.UserControl1.resources
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\obj\Release\MonopolyDealGame.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\bin\Release\MonopolyDealGame.exe.manifest
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\bin\Release\MonopolyDealGame.application
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\bin\Release\MonopolyDealGame.exe
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\bin\Release\MonopolyDealGame.pdb
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\obj\Release\MonopolyDealGame.exe.manifest
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\obj\Release\MonopolyDealGame.application
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\obj\Release\MonopolyDealGame.exe
+C:\Users\student\Documents\Visual Studio 2008\Projects\MonopolyDealGame\MonopolyDealGame\obj\Release\MonopolyDealGame.pdb
