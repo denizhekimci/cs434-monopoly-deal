@@ -1,6 +1,6 @@
 package cards;
 
-import java.awt.List;
+import java.util.List;
 
 public abstract class ActionCard extends Card {
 	protected List cards = new List();
